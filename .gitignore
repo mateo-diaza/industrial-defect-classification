@@ -1,0 +1,19 @@
+# Dataset generado por el notebook
+synthetic_industrial_dataset/
+
+# Material del curso y artefactos pesados que se conservan localmente
+course_materials/
+*.pth
+*.pt
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Entorno local y sistema operativo
+.env
+.DS_Store
+Thumbs.db
